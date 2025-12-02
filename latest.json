@@ -1,0 +1,11 @@
+{
+    "version": "0.0.2",
+    "notes": "Update test release",
+    "pub_date": "2024-03-20T12:00:00Z",
+    "platforms": {
+        "linux-x86_64": {
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUnUrWjc0ZWRLSExLRnIrZ0VWWWZFTjNMbHFaNGtwZVpyUjYvTVFPZFcwSk55L05QNG50VjBXRFRpcFFMQ1d5OTZkN0c0MFhTS3M5aUE1YjVwN2ZCR2czcHR5WDNvRmc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY0Njk0OTQxCWZpbGU6TnV0cmlDUk1fMC4wLjFfYW1kNjQuZGViCnpvZ3puMWJmWWgvVTQ5SkZIQlNXeSs0aSt2OWxJWllKS2hYck9FZFlLa1QrNVh2ZXppU1ZDaVQ4ZjFEeWh5WE9RSk1vQ0dLaVJzendQeUwyeERNMUJ3PT0K",
+            "url": "https://github.com/gos-91/NMrelease/releases/download/v0.0.02/NutriCRM_0.0.1_amd64.deb"
+        }
+    }
+}
