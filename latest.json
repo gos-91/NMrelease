@@ -4,8 +4,8 @@
     "pub_date": "2024-03-20T12:00:00Z",
     "platforms": {
         "linux-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUnUrWjc0ZWRLSElDa3JsVUd4aXRQWDJrR1h1MWNFWkRnbmdBT09NWWdQNHFBTFFhK1NFZ2cwSnFrbkl2QzBWYS8wYzBIcGZIQkN4WE9ieUhKWUdHK2lkZm1ZbFhDMUFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY0Njk3MzQ5CWZpbGU6TnV0cmlDUk1fMC4wLjFfYW1kNjQuZGViCnFNRm1BRTJFN0c2NFBlWUd1cDFsT05MTnJoWGw5ODFmUDZKa042YnpjTjFnUVVaRXJqbEpKTEtDMjBQK0hzODZFZ3d3VlV4UERaa1ZVOWR3eHh5cENnPT0K",
-            "url": "https://github.com/gos-91/NMrelease/releases/download/v0.0.02/NutriCRM_0.0.1_amd64.deb"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUnUrWjc0ZWRLSEY4RklVdFVBaWJzOG41YWFnNEtRZDRBYW1wYXZxeGE3eCtzajhld3BwdmpUUlhzUmNEM3VEQmFERUU0S29mZktnQmtlQmJOSHZ0ZnlNZ1VOSjNGK0FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY0NzAyODMwCWZpbGU6TnV0cmlDUk1fMC4wLjJfYW1kNjQuZGViCjZjeldQTE1NU3gwN20zTzBJMGlhU0RLZXRLNHpJN1p6ZkNUbTgza3FXaXVaTFJtMmJSQUlrdEdLOFhHNS9jMG9vZDdHeFA0M3djV0lhM0g5Q216SUJRPT0K",
+            "url": "https://github.com/gos-91/NMrelease/releases/download/v0.0.02/NutriCRM_0.0.2_amd64.deb"
         }
     }
 }
