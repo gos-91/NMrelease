@@ -1,11 +1,23 @@
 {
-    "version": "0.0.3",
-    "notes": "Update test release",
-    "pub_date": "2024-03-20T12:00:00Z",
+    "version": "0.0.43",
+    "notes": "Release v0.0.43 - Name change to Livia Barcelos",
+    "pub_date": "2025-12-10T13:40:00Z",
     "platforms": {
         "linux-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUnUrWjc0ZWRLSEJPZDVrNm0yQVBrZjQzeSt2R2ZEUU9CTTBSSWtOWWFYSXRMajdWMStsSlBMV2trcmc1V0NYaGtERUNnMEM4WjBybFZhMnliNEpib011bVQ3Z3lGV2c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY0NzEwOTc0CWZpbGU6TnV0cmlDUk1fMC4wLjNfYW1kNjQuZGViCm9RdVJkS3NwazdXRVlXV2loQ1pYdm54UG9xc3YrRzJZRUYyTUwyNnJ6VHRicXI5ckllbFhMZU9PL1lTWHk3RFgwVXVwNEpRWjRYb21DSmdoRVNWSEJBPT0K",
-            "url": "https://github.com/gos-91/NMrelease/releases/download/v0.0.03/NutriCRM_0.0.3_amd64.deb"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdzNuY1Y4em9mM3pkeGE2UlBSc1JZQnJBQWhLRXB0VWE0eVUzOFAwcmJhMjJsYjJXMldRVXFDbU5NcFJrMU1Fa1Z5eUFnVWxnbDlyYVhVclRENlhJSXVoTy80cGowTkF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY1MzgzNDEyCWZpbGU6TGl2aWEgQmFyY2Vsb3NfMC4wLjQzX2FtZDY0LkFwcEltYWdlCitsa3JqbkIwbWljUTFXQ0l5dXN0cjladEwrRUNBK0RrZnAzdmlXYXh0akVWWnR3d1U2WGNXOGk5VDBWRENtUCtESnNIR2pkWFJRT2RyRisxSDE1NkFRPT0K",
+            "url": "https://github.com/gos-91/Nutri-CRM/releases/download/v0.0.43/Livia.Barcelos_0.0.43_amd64.AppImage"
+        },
+        "darwin-x86_64": {
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdzNuY1Y4em9mMzdNUU5GUzA1Q2labEgvNXJYbDFEbmNJL1Q0Ykt5NWdMczhNdW5lSE94T2JwV0dWc0ZQcjdDc1dYSi9kZ3UyQzZZRkQ4c09RUWtlcTQzVGVMYzFDY0FBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY1MzgzNTAyCWZpbGU6TGl2aWEgQmFyY2Vsb3NfMC4wLjQzX3VuaXZlcnNhbC5kbWcKWFZtOWczNUt5cytUZXBGWjBmM1A5OUFjYVZMUnNtN3FXTmRBNCtSK3BSOHR2Qm5rNTFJMGRCdXQ2eTJ6anR1QnlsUm4yNWx3UFR6VGphVG1YVTZYQmc9PQo=",
+            "url": "https://github.com/gos-91/Nutri-CRM/releases/download/v0.0.43/Livia.Barcelos_0.0.43_universal.dmg"
+        },
+        "darwin-aarch64": {
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdzNuY1Y4em9mMzdNUU5GUzA1Q2labEgvNXJYbDFEbmNJL1Q0Ykt5NWdMczhNdW5lSE94T2JwV0dWc0ZQcjdDc1dYSi9kZ3UyQzZZRkQ4c09RUWtlcTQzVGVMYzFDY0FBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY1MzgzNTAyCWZpbGU6TGl2aWEgQmFyY2Vsb3NfMC4wLjQzX3VuaXZlcnNhbC5kbWcKWFZtOWczNUt5cytUZXBGWjBmM1A5OUFjYVZMUnNtN3FXTmRBNCtSK3BSOHR2Qm5rNTFJMGRCdXQ2eTJ6anR1QnlsUm4yNWx3UFR6VGphVG1YVTZYQmc9PQo=",
+            "url": "https://github.com/gos-91/Nutri-CRM/releases/download/v0.0.43/Livia.Barcelos_0.0.43_universal.dmg"
+        },
+        "windows-x86_64": {
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdzNuY1Y4em9mMzBpS3FYVHB6UXVlQlJTZUEzY1pxYitoVCtYRjZ5RUZ5Q3JGT0F3bWlrSkt6U05iaVVwNHJFSnA2amNjcXBUM2YvZ24zNy9DdkpoaXFjTTZhTzZ1Y1F3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY1MzgzOTMyCWZpbGU6TGl2aWEgQmFyY2Vsb3NfMC4wLjQzX3g2NC1zZXR1cC5leGUKLyt1V01ONUowTnd6RWZPV1BENFpYMU1FbjlyUndRejZ6T2Rnb0ZrYS9vNkR6aEZLa3JmWWxqVmRkRER0cTMzaWZ3WGJ5K0FCMjNpaXZsYldDeklhRGc9PQo=",
+            "url": "https://github.com/gos-91/Nutri-CRM/releases/download/v0.0.43/Livia.Barcelos_0.0.43_x64-setup.exe"
         }
     }
 }
