@@ -1,23 +1,23 @@
 {
-    "version": "0.0.49",
-    "notes": "Release v0.0.49 - Dynamic Header Name",
-    "pub_date": "2025-12-11T16:55:00Z",
+    "version": "0.0.50",
+    "notes": "Release v0.0.50 - Fix macOS Sidecar",
+    "pub_date": "2025-12-12T18:45:00Z",
     "platforms": {
         "linux-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUWJYdUJDTGNCV3hNS3FKSW5xRVM0SlFXVnRKaGViZHdmRjR1UDViNGUyS2J6dWVrS09qTE9WR2lVc1c0bEdZb1p0THhnck5qdU1NMlVoY1U5cHhlMlZBMGN1bmlTdXdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY1NDcyMDY2CWZpbGU6TGl2aWEgQmFyY2Vsb3NfMC4wLjQ5X2FtZDY0LkFwcEltYWdlCmRlQ2djWW1IdFlEaGJVSTdLQkIvUXdhZEMyOW1MZXphdE5zVmxGNFNUY3NjZGRaMnpPK2JkOUs3dnFPMGlkRkVxc1lrbTIzc002VlRobnZ3NWlqRkN3PT0K",
-            "url": "https://github.com/gos-91/NMrelease/releases/download/v0.0.49/Livia.Barcelos_0.0.49_amd64.AppImage"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUWJYdUJDTGNCVzEzZ2FJMDdkMmUzOU1INld1R0lUYUNHaEEvOHJwcEQ2SzREUGh5NVRDbWVBaG54cWtaTnFzRWE0Y3h4OGN5dkNad1Rya1VsYUpvYmFNZkFPZU5ST0FNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY1NTYyNDQxCWZpbGU6TGl2aWEgQmFyY2Vsb3NfMC4wLjUwX2FtZDY0LkFwcEltYWdlCnliTlp1SDhnWFpXL3paYk1DWSszeTdSZStQRmdEdFcydWNza2hIaGlkdU1DYW45QTFTeHhCa1JPQXp1YzBiM2JUNWZKWmZLdHZkVVpXQzg2c1EyaERnPT0K",
+            "url": "https://github.com/gos-91/NMrelease/releases/download/v0.0.50/Livia.Barcelos_0.0.50_amd64.AppImage"
         },
         "darwin-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUWJYdUJDTGNCVzNJN1htelZqalgxWXV6V1FpendnMGJzamczbVRaQS82bzZDd01pVEorMVo3QVFWc1ZMeENSS0wra2NpengyN1FlUThERzdBNXJnV2E2Z3YzY0QwQ3cwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY1NDcyMjg5CWZpbGU6TGl2aWEgQmFyY2Vsb3NfMC4wLjQ5X3VuaXZlcnNhbC5kbWcKbENXaFZEYUd4VHpHNXVVNkphWFA4VGtINmoyd0lSc2Y4WEl2T1pyaFROTmRLRnU2VExxQ1k5T0taaHdZUm4xaDNzQlEvem9jekd2OE84NWg4Nk5ZQkE9PQo=",
-            "url": "https://github.com/gos-91/NMrelease/releases/download/v0.0.49/Livia.Barcelos_0.0.49_universal.dmg"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUWJYdUJDTGNCVzdaaE1nL3VSYVdSaE1rSGhUSVhJZUdQMytsMHpXRVl1MldKdEErT0t6UUJYMU5XeGlZSEhjU1NCT2ZkZDI5T3F4UDhreDRMaHNYYzkvYnZvNmYrNXc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY1NTYyNDc5CWZpbGU6TGl2aWEgQmFyY2Vsb3NfMC4wLjUwX3VuaXZlcnNhbC5kbWcKSmJJNjh0WjdvSE9uSzBHWnFNZXZjZEJlWGRjNThpL3cwcjJvRHhkc2Z0Y1VyOGc0YUxnMlUzL0lmOWUvZDlsMGlCRlRIekxGK0g3MlhKVXpZb0JmQVE9PQo=",
+            "url": "https://github.com/gos-91/NMrelease/releases/download/v0.0.50/Livia.Barcelos_0.0.50_universal.dmg"
         },
         "darwin-aarch64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUWJYdUJDTGNCVzNJN1htelZqalgxWXV6V1FpendnMGJzamczbVRaQS82bzZDd01pVEorMVo3QVFWc1ZMeENSS0wra2NpengyN1FlUThERzdBNXJnV2E2Z3YzY0QwQ3cwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY1NDcyMjg5CWZpbGU6TGl2aWEgQmFyY2Vsb3NfMC4wLjQ5X3VuaXZlcnNhbC5kbWcKbENXaFZEYUd4VHpHNXVVNkphWFA4VGtINmoyd0lSc2Y4WEl2T1pyaFROTmRLRnU2VExxQ1k5T0taaHdZUm4xaDNzQlEvem9jekd2OE84NWg4Nk5ZQkE9PQo=",
-            "url": "https://github.com/gos-91/NMrelease/releases/download/v0.0.49/Livia.Barcelos_0.0.49_universal.dmg"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUWJYdUJDTGNCVzdaaE1nL3VSYVdSaE1rSGhUSVhJZUdQMytsMHpXRVl1MldKdEErT0t6UUJYMU5XeGlZSEhjU1NCT2ZkZDI5T3F4UDhreDRMaHNYYzkvYnZvNmYrNXc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY1NTYyNDc5CWZpbGU6TGl2aWEgQmFyY2Vsb3NfMC4wLjUwX3VuaXZlcnNhbC5kbWcKSmJJNjh0WjdvSE9uSzBHWnFNZXZjZEJlWGRjNThpL3cwcjJvRHhkc2Z0Y1VyOGc0YUxnMlUzL0lmOWUvZDlsMGlCRlRIekxGK0g3MlhKVXpZb0JmQVE9PQo=",
+            "url": "https://github.com/gos-91/NMrelease/releases/download/v0.0.50/Livia.Barcelos_0.0.50_universal.dmg"
         },
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUWJYdUJDTGNCV3lGcm83UDUwTmtWSDM1NUMzY2RTSEVBU2hXcEIreW1ucWZoSWtaeFkrUmZPSkpRL0paMHBPMFJIdlFWM3lMbmVValdxQVF5RUFyd25veXV4QXBnZEEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY1NDcyNjIwCWZpbGU6TGl2aWEgQmFyY2Vsb3NfMC4wLjQ5X3g2NC1zZXR1cC5leGUKYi9QaVpPRk4wQjl6SG5nTGQwMVJYTWdVZk93N1VIYm94N0hMTjd4MXMyRVJsekg2eFl0M292NHRKZ1NZc05QVTFMOVBVaE5JVU9pVWpyc0VhOTJXQUE9PQo=",
-            "url": "https://github.com/gos-91/NMrelease/releases/download/v0.0.49/Livia.Barcelos_0.0.49_x64-setup.exe"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUWJYdUJDTGNCVzVLZVJjR0cvZnYwR3o3MjV3R1l6QXJyanVwSUpGMWJaRFJPLyt2bjBjdzNUK3U0c1FKSEczTHlocmxYcWZ0eHhLRnUwOXZMdHNNWTdheGhjUk9Dc1EwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY1NTYyOTI4CWZpbGU6TGl2aWEgQmFyY2Vsb3NfMC4wLjUwX3g2NC1zZXR1cC5leGUKMys1Y0FXUWNWRFpyVEdMRFRNV3ZWMkZGSHBGendaYnFsZ0hKU1hlSURCZDFSZnVqQjlrTjRPbkFWMEo2cHBrT3phSU9nY3EzZm10ZVBybDNITFZiREE9PQo=",
+            "url": "https://github.com/gos-91/NMrelease/releases/download/v0.0.50/Livia.Barcelos_0.0.50_x64-setup.exe"
         }
     }
 }
