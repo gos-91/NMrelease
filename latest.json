@@ -1,23 +1,23 @@
 {
-    "version": "0.1.2",
-    "notes": "Release v0.1.2 - Fix Linux Updater (tar.gz format)",
-    "pub_date": "2025-12-23T17:15:00Z",
+    "version": "0.1.3",
+    "notes": "Release v0.1.3 - Fix Linux Updater (tar.gz format)",
+    "pub_date": "2025-12-23T18:30:00Z",
     "platforms": {
         "linux-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUWJYdUJDTGNCVzRrZVMyNXBYZWJETHBNMW1zUzFxdXg4SzdpbXZBOTlyM0N0SmlCSmFGaGhJbHlaR21TWm9EanAzbEpJN1ByMHcreXVBdFQvVk5keTdCREgyRjREQmc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY2NTA5NDAyCWZpbGU6bnV0cmktY3JtXzAuMS4yX2FtZDY0LkFwcEltYWdlLnRhci5negpEZnJYL3ZrTTRZcndVRVI0MFJubEhieFdLdHMvMEhYT2RpT3A2VjBuS0U4aHVJbk5VWDZTS0dNV2t5aFZnM3drZ2J6YkxXZVE5R2oveXJYYmY3Mm5DUT09Cg==",
-            "url": "https://github.com/gos-91/NMrelease/releases/download/v0.1.2/nutri-crm_0.1.2_amd64.AppImage.tar.gz"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUWJYdUJDTGNCV3lVam5PZkZVNnR5R0I2Vkw0bTEvZUgxZlpEenl1UXFac0ZTNWVoUWxLckNOaVRZYkdncy9rMXc0VkZDN2pVbHYwb0dQKzRJQWptT0E3MW1tamVzU2c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY2NTEzNjcwCWZpbGU6bnV0cmktY3JtXzAuMS4zX2FtZDY0LkFwcEltYWdlLnRhci5negpZSTJGM0pFelRxZVh6U3BmcnJ4S01iLzVqQmRwbDhNWGdkblFzc1l0L0UxR0p4VkllK2N6d3ZTN051YUx6ZE4yVUdNUEZ2aFZnMndvb0gzWExsWTZCdz09Cg==",
+            "url": "https://github.com/gos-91/NMrelease/releases/download/v0.1.3/nutri-crm_0.1.3_amd64.AppImage.tar.gz"
         },
         "darwin-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUWJYdUJDTGNCVzRMSkc1UDBoR3k1cXBoOFVyaFc3bXJvTks0TWw0Zm1JbCs4MUlKWUpIaVlLM2JkMmVpOVpTckZtMkt6MEdPa0VBVjF1R3BQNGN4VmJnU3VvVHo0dFFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY2NTA5NTYxCWZpbGU6bnV0cmktY3JtXzAuMS4yX3VuaXZlcnNhbC5kbWcKNnd5TWd2eVFzVVlTaHREcmF0dUlpN0ZMV0hacXF4RGU4Zm54TEpuanowdHZ1SE8xTlhtRnVzNkFaTis3czIxRjBQNklFOGRXQmNTc0F0WTcrOEwxQ0E9PQo=",
-            "url": "https://github.com/gos-91/NMrelease/releases/download/v0.1.2/nutri-crm_0.1.2_universal.dmg"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUWJYdUJDTGNCVyt0SnhjSnRwWis2T1dZOGhXcXRuc21nSVNjYU5VMVA3RjNSMzhvbG9zemoyU2J2Mk1PM1pLUXY5VDZSa2lZWlJyM1NlYStRaitVbjZNQlp3bVJVRGd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY2NTEzNTAyCWZpbGU6bnV0cmktY3JtXzAuMS4zX3VuaXZlcnNhbC5kbWcKU1luRHpDZ0pCYXhLcXM0SGtybjZQQXQ1dEFZdERFL1REY2FLRGhkb3R1VmNqYTZDWUdOR1RtS0ZmTDNmMDlsdHdMK2xxZFRaMi9lNmpGTDduUVlYQWc9PQo=",
+            "url": "https://github.com/gos-91/NMrelease/releases/download/v0.1.3/nutri-crm_0.1.3_universal.dmg"
         },
         "darwin-aarch64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUWJYdUJDTGNCVzRMSkc1UDBoR3k1cXBoOFVyaFc3bXJvTks0TWw0Zm1JbCs4MUlKWUpIaVlLM2JkMmVpOVpTckZtMkt6MEdPa0VBVjF1R3BQNGN4VmJnU3VvVHo0dFFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY2NTA5NTYxCWZpbGU6bnV0cmktY3JtXzAuMS4yX3VuaXZlcnNhbC5kbWcKNnd5TWd2eVFzVVlTaHREcmF0dUlpN0ZMV0hacXF4RGU4Zm54TEpuanowdHZ1SE8xTlhtRnVzNkFaTis3czIxRjBQNklFOGRXQmNTc0F0WTcrOEwxQ0E9PQo=",
-            "url": "https://github.com/gos-91/NMrelease/releases/download/v0.1.2/nutri-crm_0.1.2_universal.dmg"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUWJYdUJDTGNCVyt0SnhjSnRwWis2T1dZOGhXcXRuc21nSVNjYU5VMVA3RjNSMzhvbG9zemoyU2J2Mk1PM1pLUXY5VDZSa2lZWlJyM1NlYStRaitVbjZNQlp3bVJVRGd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY2NTEzNTAyCWZpbGU6bnV0cmktY3JtXzAuMS4zX3VuaXZlcnNhbC5kbWcKU1luRHpDZ0pCYXhLcXM0SGtybjZQQXQ1dEFZdERFL1REY2FLRGhkb3R1VmNqYTZDWUdOR1RtS0ZmTDNmMDlsdHdMK2xxZFRaMi9lNmpGTDduUVlYQWc9PQo=",
+            "url": "https://github.com/gos-91/NMrelease/releases/download/v0.1.3/nutri-crm_0.1.3_universal.dmg"
         },
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUWJYdUJDTGNCVzFMUVA1SStHNk0zUm5KRzJyRk5ZSmJSMnRIUUI3N3NaVjNkNWx1LzdtMGNuZ2ljd25ONWQzbStZREdBNlZOMmQ5QUhlRnNDcEIyWnQyaEpETS92alFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY2NTA5ODk0CWZpbGU6bnV0cmktY3JtXzAuMS4yX3g2NC1zZXR1cC5leGUKYXlsdlNuV0tDbjk1NDIwU2RibVpibTQwQnhWbkhjME9XanRBT0s5bFhwbW5oNWcrdHhvQW5sN25Jck42bFZZMllveEZXR0orcERscnpoR1VQOENZQ2c9PQo=",
-            "url": "https://github.com/gos-91/NMrelease/releases/download/v0.1.2/nutri-crm_0.1.2_x64-setup.exe"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUWJYdUJDTGNCVzNkOGJ4Z1FHdkZESWdCMmk1Qk43STVmRmxJVFBMQUFIZTFYdnV5dW53dHRTR3ZvWmpNZmE5b1V1SjVpeVQrKytnd2pqcWdIaEUvTTY4bG1EYndIbFFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY2NTE0MjIyCWZpbGU6bnV0cmktY3JtXzAuMS4zX3g2NC1zZXR1cC5leGUKelpBMWdLQkNWV2MwWnZUNnJtdWVSNk9Cc0tOVEY1d3c5Unp4RVdXZFI2M2pSSm5BMDN4TzVQRGppNHhqdmc4NFhBbHRaL1IvbzRsOXpRZlovZWJZQ1E9PQo=",
+            "url": "https://github.com/gos-91/NMrelease/releases/download/v0.1.3/nutri-crm_0.1.3_x64-setup.exe"
         }
     }
 }
