@@ -1,23 +1,23 @@
 {
-    "version": "0.0.51",
-    "notes": "Release v0.0.51 - Fix Sidecar Path (Flattened)",
-    "pub_date": "2025-12-15T13:00:00Z",
+    "version": "0.1.1",
+    "notes": "Release v0.1.1 - Hotfix for build error",
+    "pub_date": "2025-12-23T14:30:00Z",
     "platforms": {
         "linux-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUWJYdUJDTGNCV3pPc2tyUmY4eGJkbVhHN3VkbFI2dzRGMHdJc0Q0STdkYWhYNFBtUko4MWhzSTlNV2w0eWpqMDR5WXVjbUdoQmtmUjBFMjVwQVlTRmFlWWtDaEpkcVFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY1NTY3ODQ3CWZpbGU6TGl2aWEgQmFyY2Vsb3NfMC4wLjUwX2FtZDY0LkFwcEltYWdlCkJWcXhUUTNnQzg2SStHUGVvMjM0OHlXU0FYR3l5akVIZERsY3Z0MENvSWVNK0djNlRzKzF1cFQxWFNFdnJKSFhnblgwTXJoMXk1V0FvK1hpa2NVSkJ3PT0K",
-            "url": "https://github.com/gos-91/NMrelease/releases/download/v0.0.51/Livia.Barcelos_0.0.50_amd64.AppImage"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUWJYdUJDTGNCVzh1YTdJUVJNSnBxM3pkY243SXBDZWtkb2RPclRwdFZxcHRxa2UxalZuVHpLS2N6NmFFRlYxZnBGQWVQN3V6ZVBhYzl1cUZ0cTJrTkhLQXlCakdPUVFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY2NDk5MzQ4CWZpbGU6bnV0cmktY3JtXzAuMS4xX2FtZDY0LkFwcEltYWdlCmZzdUJiVFFPbHBGaWRGVjloNnZaanFxL1RWRTYxTC9hdTE4bUxlZyt1aDZ6Vkp6YWhhVnVzRWxYU09HUU5QYTRQSDlFcHBGR2s4SFBBUzBNRlJRa0RRPT0K",
+            "url": "https://github.com/gos-91/Nutri-CRM/releases/download/v0.1.1/nutri-crm_0.1.1_amd64.AppImage"
         },
         "darwin-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUWJYdUJDTGNCVzJSKzVRdjVKRWZHSGg3SkJOU20vaVJOUEpPY1FtbERjbW90WWo0MWhqb2FjL1BHTjU2THBhdDdqMHJCVFlFUm1CTWQ3Q0FqUlNPRDB0SDZsU2J3aVFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY1NTY3NzM4CWZpbGU6TGl2aWEgQmFyY2Vsb3NfMC4wLjUwX3VuaXZlcnNhbC5kbWcKa0R1dlBBUnBBVXpuY09lQ01BZ21UUjRwYUpTUndHWDdhQzZQT1ZhdUMwYnV4RmQvVFIyZVErQ2Q4cFZZZ1ZHNFNWVTVRSlhNcUc3Q09aNFBEWHJwQmc9PQo=",
-            "url": "https://github.com/gos-91/NMrelease/releases/download/v0.0.51/Livia.Barcelos_0.0.50_universal.dmg"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUWJYdUJDTGNCVzkrN0VwSWVmMDFSck5ERDUya0ZLL2cvUG81cW5EYzgrOWExRmk2T05BZXRHQ1JLL3YvYkNzR1FINTRLc2txZUVQQnRma1BGZi83WWJkdEh0eDNDUkFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY2NDk5MTAyCWZpbGU6bnV0cmktY3JtXzAuMS4xX3VuaXZlcnNhbC5kbWcKZ1ZpaG53UjkvdzRId1p0VWE1R3JWVjZhOER6Y29yNldZR040ckxMYUxzMi8zU1k4UUU5dGVsT2x6bTdqdWZ4RUxpejFFWFBrTzBzVU1seHcrWGYwQ3c9PQo=",
+            "url": "https://github.com/gos-91/Nutri-CRM/releases/download/v0.1.1/nutri-crm_0.1.1_universal.dmg"
         },
         "darwin-aarch64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUWJYdUJDTGNCVzJSKzVRdjVKRWZHSGg3SkJOU20vaVJOUEpPY1FtbERjbW90WWo0MWhqb2FjL1BHTjU2THBhdDdqMHJCVFlFUm1CTWQ3Q0FqUlNPRDB0SDZsU2J3aVFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY1NTY3NzM4CWZpbGU6TGl2aWEgQmFyY2Vsb3NfMC4wLjUwX3VuaXZlcnNhbC5kbWcKa0R1dlBBUnBBVXpuY09lQ01BZ21UUjRwYUpTUndHWDdhQzZQT1ZhdUMwYnV4RmQvVFIyZVErQ2Q4cFZZZ1ZHNFNWVTVRSlhNcUc3Q09aNFBEWHJwQmc9PQo=",
-            "url": "https://github.com/gos-91/NMrelease/releases/download/v0.0.51/Livia.Barcelos_0.0.50_universal.dmg"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUWJYdUJDTGNCVzkrN0VwSWVmMDFSck5ERDUya0ZLL2cvUG81cW5EYzgrOWExRmk2T05BZXRHQ1JLL3YvYkNzR1FINTRLc2txZUVQQnRma1BGZi83WWJkdEh0eDNDUkFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY2NDk5MTAyCWZpbGU6bnV0cmktY3JtXzAuMS4xX3VuaXZlcnNhbC5kbWcKZ1ZpaG53UjkvdzRId1p0VWE1R3JWVjZhOER6Y29yNldZR040ckxMYUxzMi8zU1k4UUU5dGVsT2x6bTdqdWZ4RUxpejFFWFBrTzBzVU1seHcrWGYwQ3c9PQo=",
+            "url": "https://github.com/gos-91/Nutri-CRM/releases/download/v0.1.1/nutri-crm_0.1.1_universal.dmg"
         },
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUWJYdUJDTGNCV3k0T1JDSUZJRmI3MGR2Rm15aWRhNlY5K25JUUVxanR2eGNJMVhmeTBQUDZpcWNRRlFhcTR5ZHBrcEVqTC9PWnZNZkdoYkVwc2xyVzEyKzZiaGs2MlEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY1NTY4NDQyCWZpbGU6TGl2aWEgQmFyY2Vsb3NfMC4wLjUwX3g2NC1zZXR1cC5leGUKK0xhM2NTbFdkQmc0ek5hem1nRGNHUEpyY3lsZnNSb2hEUENrKzdwcGNhLy9STEEva2c3SGtSUEtuczVCVDFjVmJDZDVqd0ZMVS9yU1o2UEhtRUFJQUE9PQo=",
-            "url": "https://github.com/gos-91/NMrelease/releases/download/v0.0.51/Livia.Barcelos_0.0.50_x64-setup.exe"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUWJYdUJDTGNCVzRrK2pFQXpFSU80ZUZwNTgvVUtsOHpVd2xYM2V4U3VEbnUyQUFjR0MvUld2SjU3SHRSdDJZbDZseTlBaEZHVDl4VWFLQmhHSnZINTVodzk0ODBMR1FBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY2NDk5ODMwCWZpbGU6bnV0cmktY3JtXzAuMS4xX3g2NC1zZXR1cC5leGUKWXVuQVVUWGtwNzhNNzRNNVRzSExubFhyV0NZWFVEWUNmRjRPbUk5TW1pa3pQZEJKekVPUUw3a2NudGwvSkU2UXYxZUQvUHlkUVBzclVNa0RUODFyQmc9PQo=",
+            "url": "https://github.com/gos-91/Nutri-CRM/releases/download/v0.1.1/nutri-crm_0.1.1_x64-setup.exe"
         }
     }
 }
