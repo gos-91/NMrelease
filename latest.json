@@ -5,19 +5,19 @@
     "platforms": {
         "linux-x86_64": {
             "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUWJYdUJDTGNCVzh1YTdJUVJNSnBxM3pkY243SXBDZWtkb2RPclRwdFZxcHRxa2UxalZuVHpLS2N6NmFFRlYxZnBGQWVQN3V6ZVBhYzl1cUZ0cTJrTkhLQXlCakdPUVFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY2NDk5MzQ4CWZpbGU6bnV0cmktY3JtXzAuMS4xX2FtZDY0LkFwcEltYWdlCmZzdUJiVFFPbHBGaWRGVjloNnZaanFxL1RWRTYxTC9hdTE4bUxlZyt1aDZ6Vkp6YWhhVnVzRWxYU09HUU5QYTRQSDlFcHBGR2s4SFBBUzBNRlJRa0RRPT0K",
-            "url": "https://github.com/gos-91/Nutri-CRM/releases/download/v0.1.1/nutri-crm_0.1.1_amd64.AppImage"
+            "url": "https://github.com/gos-91/NMrelease/releases/download/v0.1.1/nutri-crm_0.1.1_amd64.AppImage"
         },
         "darwin-x86_64": {
             "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUWJYdUJDTGNCVzkrN0VwSWVmMDFSck5ERDUya0ZLL2cvUG81cW5EYzgrOWExRmk2T05BZXRHQ1JLL3YvYkNzR1FINTRLc2txZUVQQnRma1BGZi83WWJkdEh0eDNDUkFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY2NDk5MTAyCWZpbGU6bnV0cmktY3JtXzAuMS4xX3VuaXZlcnNhbC5kbWcKZ1ZpaG53UjkvdzRId1p0VWE1R3JWVjZhOER6Y29yNldZR040ckxMYUxzMi8zU1k4UUU5dGVsT2x6bTdqdWZ4RUxpejFFWFBrTzBzVU1seHcrWGYwQ3c9PQo=",
-            "url": "https://github.com/gos-91/Nutri-CRM/releases/download/v0.1.1/nutri-crm_0.1.1_universal.dmg"
+            "url": "https://github.com/gos-91/NMrelease/releases/download/v0.1.1/nutri-crm_0.1.1_universal.dmg"
         },
         "darwin-aarch64": {
             "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUWJYdUJDTGNCVzkrN0VwSWVmMDFSck5ERDUya0ZLL2cvUG81cW5EYzgrOWExRmk2T05BZXRHQ1JLL3YvYkNzR1FINTRLc2txZUVQQnRma1BGZi83WWJkdEh0eDNDUkFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY2NDk5MTAyCWZpbGU6bnV0cmktY3JtXzAuMS4xX3VuaXZlcnNhbC5kbWcKZ1ZpaG53UjkvdzRId1p0VWE1R3JWVjZhOER6Y29yNldZR040ckxMYUxzMi8zU1k4UUU5dGVsT2x6bTdqdWZ4RUxpejFFWFBrTzBzVU1seHcrWGYwQ3c9PQo=",
-            "url": "https://github.com/gos-91/Nutri-CRM/releases/download/v0.1.1/nutri-crm_0.1.1_universal.dmg"
+            "url": "https://github.com/gos-91/NMrelease/releases/download/v0.1.1/nutri-crm_0.1.1_universal.dmg"
         },
         "windows-x86_64": {
             "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUWJYdUJDTGNCVzRrK2pFQXpFSU80ZUZwNTgvVUtsOHpVd2xYM2V4U3VEbnUyQUFjR0MvUld2SjU3SHRSdDJZbDZseTlBaEZHVDl4VWFLQmhHSnZINTVodzk0ODBMR1FBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY2NDk5ODMwCWZpbGU6bnV0cmktY3JtXzAuMS4xX3g2NC1zZXR1cC5leGUKWXVuQVVUWGtwNzhNNzRNNVRzSExubFhyV0NZWFVEWUNmRjRPbUk5TW1pa3pQZEJKekVPUUw3a2NudGwvSkU2UXYxZUQvUHlkUVBzclVNa0RUODFyQmc9PQo=",
-            "url": "https://github.com/gos-91/Nutri-CRM/releases/download/v0.1.1/nutri-crm_0.1.1_x64-setup.exe"
+            "url": "https://github.com/gos-91/NMrelease/releases/download/v0.1.1/nutri-crm_0.1.1_x64-setup.exe"
         }
     }
 }
